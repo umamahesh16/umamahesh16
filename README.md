@@ -84,24 +84,9 @@
 
 <div align="center">
   
-[![Naga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umamahesh16&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naga Uma Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umamahesh16&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🎯 Current Projects & Learning
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 💻 Tech Stack |
-|------------|----------------|----------------|
-| **URL Shortener** | Scalable URL shortening service with analytics | Java, Spring Boot, Redis |
-| **Cloud Architecture** | Learning advanced cloud patterns | AWS, Kubernetes, Docker |
-| **Full Stack App** | Modern web application | React, Node.js, MongoDB |
-
-</div>
-
 ---
 
 ## 💡 Fun Facts About Me
@@ -141,7 +126,7 @@ const umamahesh16 = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umamahesh16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-uma-mahesh-nandi-1b4a83360)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umamahesh16)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umamahesh16)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://umamahesh16.dev)
@@ -162,7 +147,7 @@ const umamahesh16 = {
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<!-- 
 ## 🐍 Watch My Contribution Graph Get Eaten by the Snake!
 
 <div align="center">
@@ -172,6 +157,7 @@ const umamahesh16 = {
 </div>
 
 ---
+-->
 
 <div align="center">
 
