@@ -182,5 +182,5 @@ const umamahesh16 = {
 <div align="center">
   <h3>🔥 Let's build something amazing together! 🔥</h3>
   
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
 </div>
